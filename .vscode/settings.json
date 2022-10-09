@@ -1,0 +1,22 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.gitkeep": true,
+    "**/node_modules": true,
+    "**/express": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/express": true
+  },
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.quoteProps": "preserve",
+  "editor.bracketPairColorization.enabled": false,
+  "workbench.tree.indent": 20
+}
